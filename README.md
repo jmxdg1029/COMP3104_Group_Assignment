@@ -46,22 +46,24 @@ to main branch
 • Each member will award marks based on their contributions to the 
 assignment after verification on GitHub commits log
 
-1. inital commit
+# LOG
 
-2. added George Brown College .txt
+- inital commit
 
-3. added COMP 3104 DevOps .txt
+- added George Brown College .txt
 
-4. added COMP 3104 DevOps SDLC .txt
+- added COMP 3104 DevOps .txt
 
-5. updated COMP3104 DevOps SDLC
+- added COMP 3104 DevOps SDLC .txt
 
-6. updated COMP3104 DevOps SDLC
+- updated COMP3104 DevOps SDLC
 
-7. updated COMP3104 DevOps SDLC
+- updated COMP3104 DevOps SDLC
 
-8. updated COMP3104 DevOps SDLC
+- updated COMP3104 DevOps SDLC
 
-9. updated COMP3104 George Brown College txt
+- updated COMP3104 DevOps SDLC
 
-10. updated COMP3104 DevOps txt
+- updated COMP3104 George Brown College txt
+
+- updated COMP3104 DevOps txt
