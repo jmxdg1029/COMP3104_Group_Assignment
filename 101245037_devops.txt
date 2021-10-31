@@ -1,1 +1,3 @@
 DevOps is used to help teams streamline their work more efficently. It's the process that simplifies tasks so you can work more efficently. The objective of a DevOps engineer is to help ensure that all task are completed with the upmost efficency. They help with the pipeline of projects. 
+
+It is a helpful skill to know how to be a devops engineer. They are able to ensure the best productivity. 
