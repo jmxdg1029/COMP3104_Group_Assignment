@@ -19,3 +19,12 @@ for developers to work in when a well-thought-out version control strategy is in
 place. We’ll be looking at some commonly used strategies, the problems they solve 
 and the puzzle piece version control fills when developing a robust build pipeline 
 to ensure deliverables are shipped with little risk.
+
+Now that we have some files set for version control tracking and committed for a 
+push to a remote repository, it’s time to set up that remote repo. You’ll find quite 
+commonly in small to large organizations that it’s the Operations team who’s 
+responsible for managing repository access and permissions. Let's dig a bit deeper 
+into the day-to-day operations a DevOps engineer would be responsible for when 
+it comes to managing a version control system.
+
+One part of the process we’ll be referring to is an application “build”. A build is a term commonly used in the industry to refer to source code compilation which provides an executable for a computer to run. Running a JavaScript build as an example, allows us to create a process which produces a binary for execution.
