@@ -6,3 +6,9 @@ As mentioned earlier, the various phases such as continuous development, continu
 
 1. Agile
 In the Agile model, fast failure is a good thing. This approach produces ongoing release cycles, each featuring small, incremental changes from the previous release. At each iteration, the product is tested. The Agile model helps teams identify and address small issues on projects before they evolve into more significant problems, and it engages business stakeholders to give feedback throughout the development process.
+
+2. Lean
+The Lean process is about working only on what must be worked on at the time, so there’s no room for multitasking. Project teams are also focused on finding opportunities to cut waste at every turn throughout the SDLC process, from dropping unnecessary meetings to reducing documentation.
+
+3. Waterfall
+The downside of Waterfall is its rigidity. Sure, it’s easy to understand and simple to manage. But early delays can throw off the entire project timeline. With little room for revisions once a stage is completed, problems can’t be fixed until you get to the maintenance stage.
