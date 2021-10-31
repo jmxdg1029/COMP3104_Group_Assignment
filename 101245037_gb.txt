@@ -4,4 +4,6 @@ There are 3 campus' and each campus has their own specialties. Depending what ca
 
 For example Casa Loma specializes in Engineering and business, the St.James campus is know for their culinary, and the water front campus is known for nursing. 
 
+I'm currently at the Casa Loma campus as a computer Programmer Analyst
+
 
