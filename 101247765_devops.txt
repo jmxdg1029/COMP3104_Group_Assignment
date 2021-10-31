@@ -1,0 +1,21 @@
+This file will contain information about COMP 3104 DevOps course.
+
+DevOps culture brings the cohesion of autonomous teams to fast paced, high-demanding environments. 
+It has a set of processes that when applied correctly can:
+	1. Drastically reduce IT overhead
+	2. Remove manual tasks both of a mundane or complex nature
+	3. Enforce best security practices
+	4. Expedite product delivery
+	5. Improve communication and collaboration across teams
+
+When a developer is working on a project which involves writing code, it is critical 
+to ensure that all changes are tracked for both a historical context and the ability 
+to rewind should development go south. Being aggressive with your Version 
+Control System helps keep the introduction of bugs to a minimum and allows for 
+an easy transition back to a stable state without potentially loosing hours of work.
+
+A DevOps engineer can yield a great deal of power and provide a safe environment 
+for developers to work in when a well-thought-out version control strategy is in 
+place. We’ll be looking at some commonly used strategies, the problems they solve 
+and the puzzle piece version control fills when developing a robust build pipeline 
+to ensure deliverables are shipped with little risk.
