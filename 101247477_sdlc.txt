@@ -1,0 +1,3 @@
+The Software development cycle is an important aspect to learn for a DevOps engineer because it provides 
+the fundamentals to succeed in this chosen career path. Not only that but as software developers, we too
+need to understand what happens on the other spectrum of projects.
