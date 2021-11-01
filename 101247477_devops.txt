@@ -1,0 +1,5 @@
+COMP 3104 is a course that will mainly focus on the SDLC as its main teaching points.
+The course will provide us with the ability to view and manage different source codes.
+This course is the best fit for you if you are involved in IT development or even
+have a role as a system or network administrator. It will also help with soft skills
+such as team building and communaction skills.
