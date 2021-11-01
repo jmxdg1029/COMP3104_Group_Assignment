@@ -1,0 +1,2 @@
+COMP 3104 is a course that will mainly focus on the SDLC as its main teaching points.
+The course will provide us with the ability to view and manage different source codes.
