@@ -1,0 +1,23 @@
+This file will contain details about important of learning DevOps engineer in software development cycle.
+
+A DevOps engineer introduces processes, tools, and methodologies to balance needs throughout the software development life cycle, from coding and deployment, to maintenance and updates. Maybe you want to shift your career to DevOps, or train yourself to drive adoption within your company.
+
+As mentioned earlier, the various phases such as continuous development, continuous integration, continuous testing, continuous deployment, and continuous monitoring constitute DevOps Life cycle. Now let us have a look at each of the phases of DevOps life cycle one by one.
+
+1. Agile
+In the Agile model, fast failure is a good thing. This approach produces ongoing release cycles, each featuring small, incremental changes from the previous release. At each iteration, the product is tested. The Agile model helps teams identify and address small issues on projects before they evolve into more significant problems, and it engages business stakeholders to give feedback throughout the development process.
+
+2. Lean
+The Lean process is about working only on what must be worked on at the time, so there’s no room for multitasking. Project teams are also focused on finding opportunities to cut waste at every turn throughout the SDLC process, from dropping unnecessary meetings to reducing documentation.
+
+3. Waterfall
+The downside of Waterfall is its rigidity. Sure, it’s easy to understand and simple to manage. But early delays can throw off the entire project timeline. With little room for revisions once a stage is completed, problems can’t be fixed until you get to the maintenance stage.
+
+4. Iterative
+The Iterative model is repetition incarnate. Instead of starting with fully known requirements, project teams implement a set of software requirements, then test, evaluate and pinpoint further requirements. A new version of the software is produced with each phase, or iteration. Rinse and repeat until the complete system is ready.
+
+5. Spiral
+One of the most flexible SDLC methodologies, Spiral takes a cue from the Iterative model and its repetition. The project passes through four phases (planning, risk analysis, engineering and evaluation) over and over in a figurative spiral until completed, allowing for multiple rounds of refinement.
+
+6. DevOps
+The DevOps methodology is a relative newcomer to the SDLC scene. It emerged from two trends: the application of Agile and Lean practices to operations work, and the general shift in business toward seeing the value of collaboration between development and operations staff at all stages of the SDLC process.
